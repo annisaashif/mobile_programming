@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="INI PANJANG WOE"
+        android:text="INI DARI ACTIVITYG"
         />
     <EditText
         android:id="@+id/edt_length"
